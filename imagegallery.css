@@ -1,0 +1,40 @@
+body {
+	width: 80%;
+	margin: auto;
+}
+
+img {
+	width: 20%;
+	float: left;
+	margin: 4%;
+}
+
+h1 {
+	font-family: 'Playfair Display', serif;
+	font-size: 23px;
+	font-weight: 800;
+	margin: 32px 4% 2px 4%;
+	text-transform: uppercase;
+	border-bottom: solid #F1F1F1 2px;
+	padding-bottom: 20px;
+	width: 20%;
+
+}
+
+.viduriniai {
+	margin-right: 2%;
+	margin-left: 2%;
+
+
+}
+
+.soniniairight {
+	margin-right: 2%;
+
+}
+
+.soniniaileft {
+	margin-left: 2%;
+
+}
+
